@@ -18,4 +18,4 @@ Welcome to the LeetCode Crash Course! This course is conducted on weekends from 
 
 ## Poster
 
-![Course Poster](images/poster.jpg)
+![Course Poster](https://github.com/IbrahimLaeeq/Leetcode-Crash-Course-Weekends-Icodeguru/blob/main/icodeguru%20course%203.jpg
